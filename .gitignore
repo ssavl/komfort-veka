@@ -9,10 +9,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-img
+
 # C extensions
 *.so
-index.html
+
 img/caterina-beleffi-7HfciUUHrm4-unsplash.jpg
       img/construction-worker.png
 img/ethan-yap-Ua1GeCn2TvY-unsplash.jpg
