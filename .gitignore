@@ -13,18 +13,18 @@ __pycache__/
 # C extensions
 *.so
 
-img/caterina-beleffi-7HfciUUHrm4-unsplash.jpg
-      img/construction-worker.png
-img/ethan-yap-Ua1GeCn2TvY-unsplash.jpg
-img/henry-co-UeueyMEWq-w-unsplash.jpg
-img/joseph-gonzalez-EBm2Rlhxk_I-unsplash.jpg
-img/mkjr_-2zUjvV0M9dQ-unsplash.jpg
-img/money.png
-img/money\302\240\342\200\224 \320\272\320\276\320\277\320\270\321\217.png
-img/ryan-franco-lpeNV3CKRLw-unsplash.jpg
-img/spencer-davis-SVfXlChg9HI-unsplash.jpg
-img/windows-1.png
-img/windows.png
+caterina-beleffi-7HfciUUHrm4-unsplash.jpg
+construction-worker.png
+ethan-yap-Ua1GeCn2TvY-unsplash.jpg
+henry-co-UeueyMEWq-w-unsplash.jpg
+joseph-gonzalez-EBm2Rlhxk_I-unsplash.jpg
+mkjr_-2zUjvV0M9dQ-unsplash.jpg
+money.png
+money\302\240\342\200\224\320\272\320\276\320\277\320\270\321\217.png
+ryan-franco-lpeNV3CKRLw-unsplash.jpg
+spencer-davis-SVfXlChg9HI-unsplash.jpg
+windows-1.png
+windows.png
 # Distribution / packaging
 .Python
 build/
